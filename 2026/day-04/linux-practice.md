@@ -52,7 +52,7 @@
 `systemctl status nginx`  — Shows the current status and recent information about the Nginx service.
 
 
-![nginx status](images/6.%20nginx%20status.png.png)
+![nginx status](images/6.%20nginx%20status.png)
 
 ### 7. View nginx Service Dependencies
 
