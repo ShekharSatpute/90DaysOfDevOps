@@ -90,6 +90,8 @@ echo "Done!"
 - Prints `Hello, <name>!`
 - Shows usage message if no argument is passed
 
+### Scripts 
+
 ```bash
 #!/bin/bash
 
@@ -111,6 +113,8 @@ echo "Hello, $1!"
 - Prints total number of arguments (`$#`)
 - Prints all arguments (`$@`)
 - Prints script name (`$0`)
+
+### Scripts 
 
 ```bash
 #!/bin/bash
@@ -142,6 +146,8 @@ echo "All arguments: $@"
 - Displays package status
 
 ## Create `install_packages.sh`
+
+### Scripts 
 
 ```bash
 #!/bin/bash
@@ -183,6 +189,8 @@ done
 # Task 5 – Error Handling
 
 ## Create `safe_script.sh`
+
+### Scripts 
 
 ```bash
 #!/bin/bash
